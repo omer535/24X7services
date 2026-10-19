@@ -2,14 +2,12 @@
 @import 'uniwind';
 
 /* ===========================================================================
-   Design tokens — the same ones the technician web app wears
-   (technician/app/globals.css), so a className copied across from a web
-   component means the same thing here.
+   Design tokens for the technician app.
 
    Same brand blue and typeface as the customer app, so the two read as one
    company. The neutrals are cooler: this is a work tool used in sunlight on a
    cheap phone, and a crisp white card on a pale slate canvas holds contrast
-   better outdoors than warm paper does. Light only, like the web app.
+   better outdoors than warm paper does. Light only.
 
    Colour has two jobs and they never mix. Blue is the app: anything tappable,
    anything chosen. The status hues are the job: they live on chips, rails and
@@ -81,7 +79,7 @@
   letter-spacing: -0.12px;
 }
 
-/* The two elevation levels the web app uses. */
+/* The two elevation levels. */
 @utility shadow-card {
   box-shadow: 0 1px 2px rgba(17, 24, 39, 0.05);
 }
