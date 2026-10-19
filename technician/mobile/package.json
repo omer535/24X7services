@@ -3,7 +3,7 @@
   "main": "expo-router/entry",
   "version": "1.0.0",
   "private": true,
-  "description": "24X7 Technician Partner — Expo + Expo Router (React Native) technician app. Seeded demo data, kept on the device.",
+  "description": "24X7 Technician Partner — Expo + Expo Router (React Native) port of the technician web app (../). Same seeded demo data, kept on the device.",
   "dependencies": {
     "@expo-google-fonts/manrope": "^0.4.2",
     "clsx": "^2.1.1",

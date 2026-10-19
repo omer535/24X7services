@@ -2,7 +2,7 @@
   "name": "admin",
   "version": "0.1.0",
   "private": true,
-  "//dev": "Pinned to 3330. 3310 is the customer app, 3325 the technician app's Expo web preview and 3200 the marketing site.",
+  "//dev": "Pinned to 3330. 3310 is the customer app, 3320 the technician app and 3200 the marketing site.",
   "scripts": {
     "dev": "next dev -p 3330",
     "build": "next build",
